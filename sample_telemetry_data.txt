@@ -1,0 +1,11 @@
+MPU6050 AccX: -0.5 g, AccY: -0.3 g, Servo X Position: 50, Servo Y Position: 50
+MPU6050 AccX: -0.7 g, AccY: -0.2 g, Servo X Position: 30, Servo Y Position: 60
+MPU6050 AccX: -0.8 g, AccY: -0.1 g, Servo X Position: 10, Servo Y Position: 70
+Temperature: 20.34 *C, Pressure: 970.12 hPa, Approx. Altitude: 145.18 m
+MPU6050 AccX: -0.8 g, AccY: 0.0 g, Servo X Position: 10, Servo Y Position: 70
+MPU6050 AccX: -0.7 g, AccY: 0.1 g, Servo X Position: 30, Servo Y Position: 60
+MPU6050 AccX: -0.5 g, AccY: 0.2 g, Servo X Position: 50, Servo Y Position: 50
+Temperature: 20.34 *C, Pressure: 970.12 hPa, Approx. Altitude: 305.45 m
+MPU6050 AccX: -0.3 g, AccY: 0.3 g, Servo X Position: 70, Servo Y Position: 40
+MPU6050 AccX: -0.1 g, AccY: 0.4 g, Servo X Position: 90, Servo Y Position: 30
+Temperature: 20.34 *C, Pressure: 970.12 hPa, Approx. Altitude: 500.00 m
