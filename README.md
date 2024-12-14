@@ -36,6 +36,8 @@ The main.py file visulizes the data from data logged to the SD card.
 
 **Things to keep in mind**
 
+I have not completed the Main.c file to properly eject the parachute at apogee. Consider this if you want to print the nose cone for the rocket.
+
 I advise using Replit.com so you do not have to download Python package on a local IDE. 
 
 You will need to take the SD card out of the rocket after flight and plug it into your computer. After you run the code you will need to click "open file". Ensure your .txt file is named "sample_telemetry_data". If it is not updated to this then you will need to change the def main funcation that opens the "sample_telemetry_data.txt" file. Below is the code you will need to update if you change the name of your .txt file. 
@@ -50,7 +52,10 @@ You will need to take the SD card out of the rocket after flight and plug it int
 
 
 
-This repository contains two main programs designed for telemetry data processing and collection:
+
+
+
+**This repository contains two main programs designed for telemetry data processing and collection:**
 
 * Note: I have included a unit test file for the Main.py file. I have also included an example of what the data will look like on the SD card. I used Arduino IDE to upload code to ESP32. 
 
