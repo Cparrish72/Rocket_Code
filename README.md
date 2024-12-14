@@ -52,6 +52,8 @@ You will need to take the SD card out of the rocket after flight and plug it int
 
 This repository contains two main programs designed for telemetry data processing and collection:
 
+* Note: I have included a unit test file for the Main.py file. I have also included an example of what the data will look like on the SD card. I used Arduino IDE to upload code to ESP32. 
+
 **Python GUI Application (main.py)**
 
 This program provides a graphical user interface (GUI) for processing and visualizing telemetry data. It is built using Python with the tkinter library for the GUI and matplotlib for plotting the data.
